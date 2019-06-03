@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c2efa0b-b394-43a6-b910-eb643ee950c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/thiago.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/Args.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/FuncaoInline1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/FuncaoInline2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/FuncaoParametro1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/FuncaoParametro2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/Infix.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/MultiplosRetornos.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/ParametrosPadroes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/SegundoElementoList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/TopLevel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/funcoes/VarArgs.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../AndroidEssencial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../AndroidEssencial/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2c2efa0b-b394-43a6-b910-eb643ee950c7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/src/funcoes/FuncaoParametro2.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="93">
-              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -46,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/src/funcoes/FuncaoInline1.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -54,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/funcoes/FuncaoInline2.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -240,7 +222,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -255,7 +236,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32972974" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28972974" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28972974" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -351,21 +332,21 @@
     <entry file="file://$PROJECT_DIR$/src/funcoes/FuncaoParametro2.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/funcoes/FuncaoInline1.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/funcoes/FuncaoInline2.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
